@@ -29,14 +29,34 @@ This is a 3D design project created using Tinkercad. The model showcases a creat
 
 ---
 
-## **How to View**
+## **Door Unlock Scenario (Right Password)**
 
-You can explore this design interactively by visiting the [Tinkercad project link](https://www.tinkercad.com/things/8rsvFW0yfoC-incredible-hillar-amberis). It allows you to zoom, rotate, and inspect the model from all angles.
+In this scenario, the door unlocks successfully when the correct password is entered. The model visually represents the door in an open state, highlighting the mechanism that responds to the correct input.
+
+- **Visual Cue:** The door is shown open/unlocked.  
+- **Interaction:** Correct password triggers the unlocking mechanism.  
+- **Purpose:** Demonstrates how user input can control physical elements in the design.
 
 ---
 
-## **Future Improvements**
+## **Door Locked Scenario (Wrong Password)**
 
-- Add animation or interactivity if supported  
-- Export for 3D printing or further refinement in other CAD software  
-- Create a series of related models to build a collection
+This scenario shows the door remaining locked when an incorrect password is entered. The model depicts the door in a closed and secured state, indicating that access is denied.
+
+- **Visual Cue:** The door remains closed/locked.  
+- **Interaction:** Incorrect password results in no change to the door’s locked status.  
+- **Purpose:** Illustrates the importance of password validation and access control within the model.
+
+---
+
+## **How to View**
+
+You can explore these designs interactively by visiting the [Tinkercad project link](https://www.tinkercad.com/things/8rsvFW0yfoC-incredible-hillar-amberis). Use the controls to zoom, rotate, and inspect the door mechanisms closely.
+
+---
+
+## **Future Enhancements**
+
+- Add animation to the door unlocking and locking actions.  
+- Integrate sensor simulations for password input recognition.  
+- Expand the model to include additional interactive elements or security features.
